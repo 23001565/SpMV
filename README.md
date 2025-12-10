@@ -8,7 +8,7 @@ The repository includes the following modules:
 
 - csb.cpp — Convert .coo to CSB + SpMV & SpMVᵀ
 
-These are simple, educational versions designed to illustrate the flow of sparse matrix algorithms.
+These are simple versions designed to illustrate the flow of sparse matrix algorithms.
 
 📂 Project Components
 1. 🔧 mtx2coo.cpp
